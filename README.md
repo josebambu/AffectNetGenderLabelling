@@ -10,3 +10,5 @@ M: Male
 I: Undetermined/Duplicated/Ignored/Baby
 
 Although duplicates were removed, some duplicated image have been detected and marked with I.
+
+Data is splited in two csv files.
